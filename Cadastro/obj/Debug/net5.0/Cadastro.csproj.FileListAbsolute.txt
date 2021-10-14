@@ -1,0 +1,16 @@
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\bin\Debug\net5.0\Cadastro.exe
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\bin\Debug\net5.0\Cadastro.deps.json
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\bin\Debug\net5.0\Cadastro.runtimeconfig.json
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\bin\Debug\net5.0\Cadastro.runtimeconfig.dev.json
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\bin\Debug\net5.0\Cadastro.dll
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\bin\Debug\net5.0\ref\Cadastro.dll
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\bin\Debug\net5.0\Cadastro.pdb
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.csproj.AssemblyReference.cache
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.AssemblyInfoInputs.cache
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.AssemblyInfo.cs
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.dll
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\ref\Cadastro.dll
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.pdb
+C:\Users\erla.santos\source\repos\Cadastro\Cadastro\obj\Debug\net5.0\Cadastro.genruntimeconfig.cache
